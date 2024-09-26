@@ -1,0 +1,7 @@
+a = int(input('輸⼊⼀個⼗進制數字：'))
+b = bin(a)
+c = oct(a)
+d = hex(a)
+print('⼆進制：',b)
+print('⼋進制：',c)
+print('⼗六進制：',d)    
